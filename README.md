@@ -9,6 +9,10 @@ TOOLS USED
 I used the textbox to highlight the title of the project (Airline Flights Analysis). I used slicers for airline name, origin city and day to enable an interactive dashboard. I used cards to visualize the average distance covered by all airlines, counts of origin city, origin state and number of airlines.
 VISUALIZATIONS 
 I used tools like clustered column charts, line charts, stacked bar charts to visualize some analysis like sum of departure delay using airlines names, sum of arrivals by airline name, count of flights id using days,  sum of distances flown by airlines and count of flights using airline name etc.
+
+![image](https://github.com/PeppieBubay/Flight-Data-Analysis/assets/152814673/ef74055b-e524-4fa1-a38d-8019b339ade1)
+
+
 STEPS IN CLEANING AND ANALYZING THE DATA
 In this analysis, I cleaned a dataset that was given. Here are the steps followed.
 1.	I downloaded the data set from google sheet to an excel workbook.
